@@ -4,3 +4,5 @@ This project has been built in order to practice and implement:
 - ☑️  Forms and forms validation in React
 - 💬  Context
 - 🪝  Hooks
+- 🔥  Firebase database
+- 🚀  Deployment
